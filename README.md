@@ -1,4 +1,4 @@
-# 🌿 Glow Naturally – Skincare Landing Page
+# 🌸 Glow Naturally – Skincare Landing Page
 
 This is a clean, responsive skincare landing page built using **HTML** and **CSS** as part of my **Codsoft Internship – Task 1**.
 
@@ -28,8 +28,6 @@ It showcases natural skincare products, my personal journey, and a minimal desig
 ## 🔗 Live Demo
 
 👉 [Click here to view the live site](https://deepikaleelakumar.github.io/CodSoft-task1-Landingpage/)
-
-> Replace the link above with your actual GitHub Pages or Netlify URL
 
 ---
 
